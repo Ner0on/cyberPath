@@ -1,4 +1,4 @@
-ISO | IEC 27001 - A.6.3 - Information security awareness, education and training. 
+## ISO | IEC 27001 - A.6.3 - Information security awareness, education and training. 
 
 ## 📖 Inspiration and Project Goal
 
@@ -12,7 +12,7 @@ I was inspired by the idea of turning this global campaign into a practical proj
 - Screenshots and explanations of each step.
 
 - Sample reports with anonymized results.
----
+
 ## 🎯 Target
 
 The main objective is to raise awareness about phishing threats by showing:
@@ -22,7 +22,7 @@ The main objective is to raise awareness about phishing threats by showing:
 - How fake login pages trick users into giving away sensitive data.
 
 - How reporting and analyzing results helps to build a security culture.
----
+
 ## ✅ Conclusion
 
 Phishing remains one of the most common attack vectors.
@@ -36,6 +36,6 @@ This project proves that:
 
 - Security culture starts with people, not just technology.
 
----
-PS! FOR EDUCATIONAL PURPOSE ONLY
+
+## PS! FOR EDUCATIONAL PURPOSE ONLY
 
