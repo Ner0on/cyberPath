@@ -8,6 +8,10 @@ This repository contains my study materials, labs, write-ups, and small projects
 ## Certificates
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Coursera%20%7C%20Google%20Cybersecurity-2A73CC?style=for-the-badge&logo=coursera&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Cert-0F1724?style=for-the-badge&logo=coursera&logoColor=white" alt="Google Cybersecurity Cert" />
+<img src="https://img.shields.io/badge/-Coursera%20%7C%20Google%20Cybersecurity-2A73CC?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera | Google Cybersecurity" />
+
 ## Skills
 
 |  Skill                          | Associated Project |
