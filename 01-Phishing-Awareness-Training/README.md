@@ -37,5 +37,4 @@ This project proves that:
 - Security culture starts with people, not just technology.
 
 
-## PS! FOR EDUCATIONAL PURPOSE ONLY
 
