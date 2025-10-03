@@ -9,9 +9,14 @@ I was inspired by the idea of turning this global campaign into a practical proj
 
 
 ### Skills Learned
+- Designing and running phishing campaigns
+- Creating phishing templates and landing pages
+- Configuring SMTP/subdomains and testing deliverability
+- Analyzing metrics: deliverability, open/click/report rates
+- Post-campaign debrief and user training
 
 ### Tools Used
-- GoPhish
+- <a href="https://getgophish.com/"> GoPhish </a> 
  
 ## Steps 
 
