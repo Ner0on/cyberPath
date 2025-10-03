@@ -6,9 +6,10 @@ From Web Development to Cybersecurity — after working in web development I dis
 This repository contains my study materials, labs, write-ups, and small projects demonstrating hands-on skills.
 
 ## Certificates
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Coursera%20%7C%20Google%20Cybersecurity-2A73CC?style=for-the-badge&logo=coursera&logoColor=white"/>
-
+<div>
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Coursera%20%7C%20Google%20Cybersecurity-2A73CC?style=for-the-badge&logo=coursera&logoColor=white"/>
+</div>
 
 ## Skills
 
