@@ -11,7 +11,7 @@ This repository contains my study materials, labs, write-ups, and small projects
 ## Skills
 
 ## Projects 
-- <a href="https://github.com/Ner0on/cyberPath/tree/main/01-Phishing-Awareness-Training"> Phishing Awareness Training </a> 
+- <a href="https://github.com/Ner0on/cyberPath/tree/main/01-Phishing-Awareness-Training"> ISO | IEC 27001 - A.6.3 - Information security awareness, education and training. </a> 
 
 
 
