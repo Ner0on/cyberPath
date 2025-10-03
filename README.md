@@ -1,8 +1,13 @@
 # MyCyberPath
-Sharing my experience with people
+
+
+## Objective
+My journey in Web development has led me develop a passion for cybersecurity, and I'am now edger the transition into this field.
+In this repo I'am sharing with my experience through my studies. 
 
 ## Certificates
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
 ## Skills
 
 ## Projects 
