@@ -2,7 +2,7 @@
 
 
 ## Objective
-From Web Development to Cybersecurity — after working in web development I discovered a passion for security and am now transitioning into practical security roles (SOC, red teaming, penetration tester).
+From Web Development to Cybersecurity — after working in web development I discovered a passion for security and am now transitioning into practical security roles.
 This repository contains my study materials, labs, write-ups, and small projects demonstrating hands-on skills.
 
 ## Certificates
