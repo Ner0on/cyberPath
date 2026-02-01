@@ -17,7 +17,7 @@ This repository contains my study materials, labs, write-ups, and small projects
 |  -------------------------------|-------------------------|
 |  Simulating Phishing Attack    |<a href="https://github.com/Ner0on/cyberPath/tree/main/01-Phishing-Awareness-Training">Pishing Awareness Training<a/>
 | WPA/WPA2 networks Attack| ||
-
+| Building an Enterprise-Grade SIEM Environment  |
 ## Tools
 
 ## Projects 
