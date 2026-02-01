@@ -20,7 +20,7 @@ It contains small projects that reflect how I build, test, and improve security 
 |  -------------------------------|-------------------------|
 |  Simulating Phishing Attack    |<a href="https://github.com/Ner0on/cyberPath/tree/main/01-Phishing-Awareness-Training">Pishing Awareness Training<a/>
 | WPA/WPA2 networks Attack| ||
-| Building an Enterprise-Grade SIEM Environment  |
+| Building an Enterprise-Grade SIEM Environment  | <a href="https://github.com/Ner0on/cyberPath/tree/main/secEnv">Building Security Environment</a>
 ## Tools
 
 ## Projects 
