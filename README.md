@@ -2,8 +2,11 @@
 
 
 ## Objective
-From Web Development to Cybersecurity — after working in web development I discovered a passion for security and am now transitioning into practical security roles.
-This repository contains my study materials, labs, write-ups, and small projects demonstrating hands-on skills.
+
+This repository documents my progression in cybersecurity, with a strong focus on hands-on practice and real-world security scenarios.
+
+It contains small projects that reflect how I build, test, and improve security systems — from foundational concepts to enterprise-like environments.
+
 
 ## Certificates
 <div>
