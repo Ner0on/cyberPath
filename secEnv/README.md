@@ -1,4 +1,4 @@
-# Building secure environment 
+# Building a secure environment
 ## Objective
 ## Tools
 <ul>
