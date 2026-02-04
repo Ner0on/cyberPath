@@ -12,4 +12,8 @@ Officila information about Wazuh you can find <a href="https://github.com/wazuh/
     <b>STEP 3.</b> Added agents to my Windows & MacOs hosts
     <img width="1280" height="400" alt="image" src="https://github.com/user-attachments/assets/472fa8ab-6ae7-42cb-9927-388b101e212f" />
   </li>
+  <li>
+    <b>STEP 4.</b>
+    Adding Sysmon for more detailed logs about my Windows host. 
+  </li>
 </ul>
