@@ -4,7 +4,7 @@
 The goal of this project is to demonstrate hands-on SIEM skills in a real-world environment, working with realistic attack scenarios and security events.
 This repository documents my personal learning journey and professional growth on understanding of detection, logging, alerting, and incident analysis.
 
-## TOPICS
+## Topics
 |  Name                          | Associated Project |
 |  -------------------------------|-------------------------|
 |  SIEM initialization ( Wazuh )    |<a href="https://github.com/Ner0on/cyberPath/tree/main/Security%20LAB/SIEM%20init"> View walkthrough </a>
