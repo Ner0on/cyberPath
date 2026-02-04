@@ -1,10 +1,12 @@
 # Building a secure environment ( homeLab v1.0 )
 ## Objective
+Build Experience.
+Цель данного проекта, построить безопасную среду для тестирования различных атак и их предотващения.
 ## Tools
 <ul>
-  <li> Raspberri Pi 4 as a server for logs</li>
-  <li> WAZUH indexer, server, dashboard </li>
-  <li> Windows, Mac hosts </li>
+  <li> SERVER: Raspberry Pi + Ubuntu </li>
+  <li> SIEM: WAZUH </li>
+  <li> TOOLs: VirusTotal, Sysmon.</li>
 </ul>
 
 
