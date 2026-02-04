@@ -12,4 +12,3 @@ This repository documents my personal learning journey and professional growth o
 |  Ransomware detection & prevention scenario | <a href="https://github.com/Ner0on/cyberPath/tree/main/Security%20LAB/Ransomware%20IDS%20%26%20IPS%20Scenario"> View walkthrough </a>
 
 ## Tools
-<img width="450" height="124" alt="image" src="https://github.com/user-attachments/assets/ed04320e-9881-41df-a5ba-4ac9d35389b6" />
