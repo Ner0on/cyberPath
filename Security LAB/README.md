@@ -1,7 +1,9 @@
 # Security Environment project ( homeLab v1.0 ) 
 
 ## Objective
-Цель проекта демонстрация навыков в реальной среде с реальными угрозами
+The goal of this project is to demonstrate hands-on SIEM skills in a real-world environment, working with realistic attack scenarios and security events
+
+This repository documents my personal learning journey and professional growth on understanding of detection, logging, alerting, and incident analysis.
 
 ## TOPICS
 
