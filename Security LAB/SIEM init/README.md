@@ -4,7 +4,7 @@ Officila information about Wazuh you can find <a href="https://github.com/wazuh/
   
 
   <li><b>STEP 1.</b> For my server i used Raspberry Pi ( 4cpu, 8gb, 60gb SD) wth "Ubuntu Server" on it. </li></br>
-  <li><b>STEP 2.</b> Configured SSH for access to the my Respberry server and installed Wazuh server,indexer and dashboard.
+  <li><b>STEP 2.</b> Configured SSH for access to the my Respberry server and installed Wazuh server,indexer and dashboard on it.
     <img width="1280" height="686" alt="image" src="https://github.com/user-attachments/assets/15212a92-9635-4795-8b84-907b9d8ea484" />
   </li> 
   </br>
