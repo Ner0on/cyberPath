@@ -14,7 +14,7 @@ Officila information about Wazuh you can find <a href="https://github.com/wazuh/
   </li>
   <li>
     <b>STEP 4.</b>
-    Adding Sysmon for more detailed logs from Windows Event viewer. 
+    Adding Sysmon on both Windows hosts for more detailed logs from Windows Event viewer. 
     <img width="1159" height="881" alt="VirtualBox_Win10-SandboxHost_05_02_2026_20_52_16" src="https://github.com/user-attachments/assets/f3b5b96a-7840-48cc-8333-72e1413f25c0" />
 
   </li>
