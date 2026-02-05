@@ -14,6 +14,6 @@ Officila information about Wazuh you can find <a href="https://github.com/wazuh/
   </li>
   <li>
     <b>STEP 4.</b>
-    Adding Sysmon for more detailed logs about my Windows host. 
+    Adding Sysmon for more detailed logs from Windows Event viewer. 
   </li>
 </ul>
