@@ -1,2 +1,2 @@
 
-## MITRE&ATT&K T1110
+## MITRE | ATT&K T1110
