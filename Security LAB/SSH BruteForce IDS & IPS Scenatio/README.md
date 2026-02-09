@@ -1,5 +1,5 @@
 
-## MITRE | ATT&K <a href="https://attack.mitre.org/techniques/T1110/">T1110</a>
+## MITRE | ATT&CK <a href="https://attack.mitre.org/techniques/T1110/">T1110</a>
 ### Tactic: Credential Access
 ### Scenario:
 <p>Initializing attack on my server and tracking this eveint in SIEM logs</p>
