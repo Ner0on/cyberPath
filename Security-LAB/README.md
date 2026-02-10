@@ -7,7 +7,7 @@ This repository documents my personal learning journey and professional growth o
 ## Topics
 |  Name                          | Associated Project |
 |  -------------------------------|-------------------------|
-|  SIEM initialization ( Wazuh )    |<a href="https://github.com/Ner0on/cyberPath/tree/main/Security-LAB/SIEM%20init"> View walkthrough </a>
+|  SIEM implementation (Wazuh + Sysmon)   |<a href="https://github.com/Ner0on/cyberPath/tree/main/Security-LAB/SIEM%20init"> View walkthrough </a>
 |  Malware detection & prevention scenario |<a href="https://github.com/Ner0on/cyberPath/tree/main/Security-LAB/Malware%20IDS%20%26%20IPS%20Scenario"> View walkthrough </a>
 |  Ransomware detection & prevention scenario | <a href="https://github.com/Ner0on/cyberPath/tree/main/Security-LAB/Ransomware%20IDS%20%26%20IPS%20Scenario"> View walkthrough </a>
 
