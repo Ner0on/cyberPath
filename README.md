@@ -18,9 +18,9 @@ It contains small projects that reflect how I build, test, and improve security 
 
 |  Skill                          | Associated Project |
 |  -------------------------------|-------------------------|
-|  Simulating Phishing Attack    |<a href="https://github.com/Ner0on/cyberPath/tree/main/01-Phishing-Awareness-Training">Pishing Awareness Training<a/>
+|  Simulating Phishing Attack    |<a href="https://github.com/Ner0on/cyberPath/tree/main/01-Phishing-Awareness-Training">View<a/>
 | WPA/WPA2 networks Attack| ||
-| SOC LAB | <a href="https://github.com/Ner0on/cyberPath/tree/main/Security%20LAB">SOC LAB</a>
+| SOC LAB | <a href="https://github.com/Ner0on/cyberPath/tree/main/Security%20LAB">View</a>
 ## Tools
 
 ## Projects 
