@@ -7,7 +7,7 @@ This repository documents my personal learning journey and professional growth o
 ## Topics
 |  Name                          | Associated Project |
 |  -------------------------------|-------------------------|
-|  SIEM implementation (Wazuh + Sysmon)   |<a href="https://github.com/Ner0on/cyberPath/tree/main/Security-LAB/SIEM%20init"> View walkthrough </a>
+|  SIEM implementation (Wazuh + Sysmon)   |<a href="https://github.com/y0kimatsu/cyberPath/blob/main/Security-LAB/SIEM%20implementation/%20README.md"> View walkthrough </a>
 |  Malware Detection & Automated Response (SIEM Use Case) |<a href="https://github.com/y0kimatsu/cyberPath/tree/main/Security-LAB/Malware%20Detection%20and%20Automated%20Response%20(SIEM%20Use%20Case)"> View walkthrough </a>
 |  Ransomware Detection & Automated Response | <a href="https://github.com/Ner0on/cyberPath/tree/main/Security-LAB/Ransomware%20IDS%20%26%20IPS%20Scenario"> View walkthrough </a>
 | SSH BruteForce scenario | <a href="https://github.com/y0kimatsu/cyberPath/tree/main/Security-LAB/SSH%20BruteForce%20IDS%20%26%20IPS%20Scenatio"> View walkthrough </a>
