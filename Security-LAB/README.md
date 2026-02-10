@@ -10,5 +10,5 @@ This repository documents my personal learning journey and professional growth o
 |  SIEM implementation (Wazuh + Sysmon)   |<a href="https://github.com/Ner0on/cyberPath/tree/main/Security-LAB/SIEM%20init"> View walkthrough </a>
 |  Malware detection & prevention scenario |<a href="https://github.com/Ner0on/cyberPath/tree/main/Security-LAB/Malware%20IDS%20%26%20IPS%20Scenario"> View walkthrough </a>
 |  Ransomware detection & prevention scenario | <a href="https://github.com/Ner0on/cyberPath/tree/main/Security-LAB/Ransomware%20IDS%20%26%20IPS%20Scenario"> View walkthrough </a>
-
+| SSH BruteForce IDS & IPS sscenario | <a href="Security-LAB/SSH BruteForce IDS & IPS Scenatio"> View walkthrough </a>
 ## Tools
