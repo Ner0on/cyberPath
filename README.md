@@ -20,7 +20,7 @@ It contains small projects that reflect how I build, test, and improve security 
 |  -------------------------------|-------------------------|
 |  Simulating Phishing Attack    |<a href="https://github.com/Ner0on/cyberPath/tree/main/01-Phishing-Awareness-Training">Pishing Awareness Training<a/>
 | WPA/WPA2 networks Attack| ||
-| Building an Security Environment ( homeLAB v1.0)  | <a href="https://github.com/Ner0on/cyberPath/tree/main/Security%20LAB">Building Security Environment</a>
+| SOC LAB | <a href="https://github.com/Ner0on/cyberPath/tree/main/Security%20LAB">SOC LAB</a>
 ## Tools
 
 ## Projects 
