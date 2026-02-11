@@ -1,7 +1,7 @@
 ## Security Information Event Management ( SIEM ) implementation | Wazuh + Sysmon
 ### Objective 
 The goal of this project is to design and implement a functional SIEM-based monitoring environment using Wazuh and Sysmon to gain hands-on experience in real-world detection engineering and log analysis.
-Officila information about Wazuh you can find <a href="https://github.com/wazuh/wazuh"> on GitHub </a> or <a href="https://wazuh.com/"> on Website</a> 
+<p>Officila information about Wazuh you can find <a href="https://github.com/wazuh/wazuh"> on GitHub </a> or <a href="https://wazuh.com/"> on Website</a></p>
 ### Walkthrough 
 <ul>
   <li><b>STEP 1.</b> For my server i used Raspberry Pi ( 4cpu, 8gb, 60gb SD) wth "Ubuntu Server" on it. </li></br>
