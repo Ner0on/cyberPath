@@ -1,7 +1,7 @@
 ## SSH Brute Force Detection Scenario
-## MITRE | ATT&CK
-## Tactic: <a href="https://attack.mitre.org/tactics/TA0006/"> Credential Access </a> 
-## Technique: <a href="https://attack.mitre.org/techniques/T1110/"> T1110 | Brute Force </a>
+### MITRE | ATT&CK
+### Tactic: <a href="https://attack.mitre.org/tactics/TA0006/"> Credential Access </a> 
+### Technique: <a href="https://attack.mitre.org/techniques/T1110/"> T1110 | Brute Force </a>
 <hr>
 
 ### Scenario objective:
@@ -15,5 +15,18 @@ Brute force is a credential access technique where an attacker repeatedly attemp
   <li>SSH password authentication was enabled intentionally for testing purposes</li>
 </ul>
 <p>This environment was configured specifically for detection validation.</p>
+
 ### Walkthrough
+<p>STEP 1 | Attack Simulation </p>
+<p><b>Tool used:</b> Hydra </p>
+<p>Steps performed:</p>
+<ul>
+  <li>Created a simple password wordlist ( used 5 rows for simple test) </li>
+  <li>Executed SSH brute-force attack against target server</li>
+</ul>
+
+```
+hydra -l <valid_user> -P passwords.txt ssh://<target_ip>
+```
+
 ![photo_2026-02-06_17-26-01](https://github.com/user-attachments/assets/1dc91e19-8f4b-471e-90bd-fc9de4a31485)
