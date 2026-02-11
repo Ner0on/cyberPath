@@ -1,7 +1,7 @@
 ### <a href="https://attack.mitre.org/"> MITRE | ATT&CK </a> |
 ### Tactic: <a href="https://attack.mitre.org/tactics/TA0006/"> Credential Access </a> | 
 ### Technique: <a href="https://attack.mitre.org/techniques/T1110/"> T1110 | Brute Force </a>
-
+<hr>
 #### Scenario objective:
 Brute force is a credential access technique where an attacker repeatedly attempts authentication using known usernames and multiple password guesses.
 
