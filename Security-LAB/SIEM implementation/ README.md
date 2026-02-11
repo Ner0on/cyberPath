@@ -4,11 +4,11 @@ The goal of this project is to design and implement a functional SIEM-based moni
 
 <p>This implementation focuses on:</p>
 <ul>
-  <li>- Deploying and configuring Wazuh as a centralized SIEM platform</li>
-  <li>- Integrating Sysmon for advanced Windows endpoint telemetry</li>
-  <li>- Creating meaningful detection rules based on real attack techniques</li>
-  <li>- Practicing alert triage and incident investigation workflows</li>
-  <li>- Understanding log correlation and event enrichment</li>
+  <li> Deploying and configuring Wazuh as a centralized SIEM platform</li>
+  <li> Integrating Sysmon for advanced Windows endpoint telemetry</li>
+  <li> Creating meaningful detection rules based on real attack techniques</li>
+  <li> Practicing alert triage and incident investigation workflows</li>
+  <li> Understanding log correlation and event enrichment</li>
 </ul>
 The objective was not just to build a lab, but to simulate a practical blue team environment where security monitoring, detection tuning, and threat analysis are performed daily.
 <p>Officila information about Wazuh you can find <a href="https://github.com/wazuh/wazuh"> on GitHub </a> or <a href="https://wazuh.com/"> on Website</a></p>
