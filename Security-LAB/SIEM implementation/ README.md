@@ -1,7 +1,6 @@
 ## Security Information Event Management ( SIEM ) implementation | Wazuh + Sysmon
-Officila information about Wazuh you can find <a href="https://github.com/wazuh/wazuh"> on GitHub </a> or <a href="https://wazuh.com/"> on Website</a> 
-
 ### Objective 
+Officila information about Wazuh you can find <a href="https://github.com/wazuh/wazuh"> on GitHub </a> or <a href="https://wazuh.com/"> on Website</a> 
 ### Walkthrough 
 <ul>
   <li><b>STEP 1.</b> For my server i used Raspberry Pi ( 4cpu, 8gb, 60gb SD) wth "Ubuntu Server" on it. </li></br>
