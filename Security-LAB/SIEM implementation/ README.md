@@ -10,7 +10,7 @@ The goal of this project is to design and implement a functional SIEM-based moni
   <li> Practicing alert triage and incident investigation workflows</li>
   <li> Understanding log correlation and event enrichment</li>
 </ul>
-The objective was not just to build a lab, but to simulate a practical blue team environment where security monitoring, detection tuning, and threat analysis are performed daily.
+<p>The objective was not just to build a lab, but to simulate a practical blue team environment where security monitoring, detection tuning, and threat analysis are performed daily.</p>
 
 <p>Officila information about Wazuh you can find <a href="https://github.com/wazuh/wazuh"> on GitHub </a> or <a href="https://wazuh.com/"> on Website</a></p>
 
