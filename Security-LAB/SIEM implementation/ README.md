@@ -1,5 +1,6 @@
 ## Security Information Event Management ( SIEM ) implementation | Wazuh + Sysmon
 ### Objective 
+The goal of this project is to design and implement a functional SIEM-based monitoring environment using Wazuh and Sysmon to gain hands-on experience in real-world detection engineering and log analysis.
 Officila information about Wazuh you can find <a href="https://github.com/wazuh/wazuh"> on GitHub </a> or <a href="https://wazuh.com/"> on Website</a> 
 ### Walkthrough 
 <ul>
