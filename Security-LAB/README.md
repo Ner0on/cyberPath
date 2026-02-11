@@ -14,7 +14,7 @@ This repository documents understanding of threat detection, logging, alerting, 
   <li>Automated response scenarios</li>
 </ul>
 <p>This is not a static lab — it is an evolving security environment used for daily blue & red teams practice.</p>
-<br>
+
 ## Implemented Scenarios
 |  Name                          | Associated Project |
 |  -------------------------------|-------------------------|
