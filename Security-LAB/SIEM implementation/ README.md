@@ -15,14 +15,20 @@ The goal of this project is to design and implement a functional SIEM-based moni
 <p>Officila information about Wazuh you can find <a href="https://github.com/wazuh/wazuh"> on GitHub </a> or <a href="https://wazuh.com/"> on Website</a></p>
 
 ### Walkthrough 
+<b>STEP 1 | Infrastructure Setup </b>
+<p>For the SIEM server I used a Raspberry Pi 4 (4 CPU cores, 8GB RAM, 60GB SD card) running Ubuntu Server.The goal was to build a lightweight but fully functional SIEM environment that can operate 24/7 in a home lab setup with minimal power consumption.</p>
+<img width="1280" height="686" alt="image" src="https://github.com/user-attachments/assets/15212a92-9635-4795-8b84-907b9d8ea484" />
+
+<b>STEP 2 | Wazuh Deployment </b>
+<p></p>
+
 <ul>
-  <li><b>STEP 1.</b> For my server i used Raspberry Pi ( 4cpu, 8gb, 60gb SD) wth "Ubuntu Server" on it. </li></br>
-  <li><b>STEP 2.</b> Configured SSH for access to the my Respberry server and installed Wazuh server,indexer and dashboard on it.
-    <img width="1280" height="686" alt="image" src="https://github.com/user-attachments/assets/15212a92-9635-4795-8b84-907b9d8ea484" />
+  <li> For my server i used Raspberry Pi ( 4cpu, 8gb, 60gb SD) wth "Ubuntu Server" on it. </li></br>
+  <li> Configured SSH for access to the my Respberry server and installed Wazuh server,indexer and dashboard on it.
   </li> 
   </br>
   <li>
-    <b>STEP 3.</b> Added agents to my Windows & MacOs hosts
+    <b>STEP 3 | </b> Added agents to my Windows & MacOs hosts
     <img width="1280" height="400" alt="image" src="https://github.com/user-attachments/assets/472fa8ab-6ae7-42cb-9927-388b101e212f" />
   </li>
   <li>
@@ -35,3 +41,7 @@ The goal of this project is to design and implement a functional SIEM-based moni
 </ul>
 
 ### Conclusion
+<p>This project provided practical experience in deploying and operating a SIEM environment with endpoint-level visibility.
+</p>
+<p>The lab environment now serves as an ongoing security testing ground where I continuously simulate attacks, analyze telemetry, and improve detection capabilities.
+</p>
