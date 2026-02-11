@@ -27,21 +27,39 @@ The goal of this project is to design and implement a functional SIEM-based moni
 </ul>
 <br>
 <img width="1280" height="686" alt="image" src="https://github.com/user-attachments/assets/15212a92-9635-4795-8b84-907b9d8ea484" />
-
+<br>
 <p><b>STEP 3 | Agent Deployment </b></p>
-<img width="1280" height="400" alt="image" src="https://github.com/user-attachments/assets/472fa8ab-6ae7-42cb-9927-388b101e212f" />
-
-    <b>STEP 3 | </b> Added agents to my Windows & MacOs hosts
-  </li>
-  <li>
-    <b>STEP 4.</b>
-    Adding Sysmon on both Windows hosts for more detailed logs from Windows Event viewer. 
-    <img width="1159" height="881" alt="VirtualBox_Win10-SandboxHost_05_02_2026_20_52_16" src="https://github.com/user-attachments/assets/f3b5b96a-7840-48cc-8333-72e1413f25c0" />
-    <p>Successfully  checked that all working</p>
-    <img width="918" height="361" alt="image" src="https://github.com/user-attachments/assets/3c155ae5-10d7-4aad-94a5-b9a687790765" />
-  </li>
+<p>Installed Wazuh agents on:</p>
+<ul>
+  <li>Windows hosts</li>
+  <li>MacOs</li>
 </ul>
-
+<p>Verified agent registration and connectivity to ensure log forwarding to the SIEM server.</p>
+<br>
+<img width="1280" height="400" alt="image" src="https://github.com/user-attachments/assets/472fa8ab-6ae7-42cb-9927-388b101e212f" />
+<br>
+<p><b>STEP 4 | Sysmon Integration (Windows Telemetry Enhancement)</b></p>
+<p>Installed Sysmon on Windows hosts to enhance endpoint visibility beyond default Windows Event Viewer </p>
+<p>Sysmon provides:</p>
+<ul>
+  <li>Process creation events</li>
+  <li>Network connections</li>
+  <li>File creation/modification</li>
+  <li>Registry modifications</li>
+  <li>Driver loads</li>
+</ul>
+<br>
+<img width="1159" height="881" alt="VirtualBox_Win10-SandboxHost_05_02_2026_20_52_16" src="https://github.com/user-attachments/assets/f3b5b96a-7840-48cc-8333-72e1413f25c0" />
+<br>
+<p>After installation, confirmed:</p>
+<ul>
+  <li>Sysmon operational logs were generated</li>
+  <li>Events were forwarded via Wazuh agent</li>
+  <li>Telemetry appeared correctly in Wazuh dashboard</li>
+</ul>
+<br>
+<img width="918" height="361" alt="image" src="https://github.com/user-attachments/assets/3c155ae5-10d7-4aad-94a5-b9a687790765" />
+<br>
 ### Conclusion
 <p>This project provided practical experience in deploying and operating a SIEM environment with endpoint-level visibility.
 </p>
