@@ -17,19 +17,21 @@ The goal of this project is to design and implement a functional SIEM-based moni
 ### Walkthrough 
 <b>STEP 1 | Infrastructure Setup </b>
 <p>For the SIEM server I used a Raspberry Pi 4 (4 CPU cores, 8GB RAM, 60GB SD card) running Ubuntu Server.The goal was to build a lightweight but fully functional SIEM environment that can operate 24/7 in a home lab setup with minimal power consumption.</p>
-<img width="1280" height="686" alt="image" src="https://github.com/user-attachments/assets/15212a92-9635-4795-8b84-907b9d8ea484" />
 
 <b>STEP 2 | Wazuh Deployment </b>
-<p></p>
-
+<p>Configured SSH for secure remote access and deployed:</p>
 <ul>
-  <li> For my server i used Raspberry Pi ( 4cpu, 8gb, 60gb SD) wth "Ubuntu Server" on it. </li></br>
-  <li> Configured SSH for access to the my Respberry server and installed Wazuh server,indexer and dashboard on it.
-  </li> 
-  </br>
-  <li>
+  <li>Wazuh Manager (server)</li>
+  <li>Wazuh Indexer</li>
+  <li>Wazuh Dashboard</li>
+</ul>
+<br>
+<img width="1280" height="686" alt="image" src="https://github.com/user-attachments/assets/15212a92-9635-4795-8b84-907b9d8ea484" />
+
+<p><b>STEP 3 | Agent Deployment </b></p>
+<img width="1280" height="400" alt="image" src="https://github.com/user-attachments/assets/472fa8ab-6ae7-42cb-9927-388b101e212f" />
+
     <b>STEP 3 | </b> Added agents to my Windows & MacOs hosts
-    <img width="1280" height="400" alt="image" src="https://github.com/user-attachments/assets/472fa8ab-6ae7-42cb-9927-388b101e212f" />
   </li>
   <li>
     <b>STEP 4.</b>
