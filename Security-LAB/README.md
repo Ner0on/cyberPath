@@ -4,6 +4,17 @@
 This project represents a fully functional home-based Security Operations environment built to simulate real-world detection and incident response workflows.
 This repository documents understanding of threat detection, logging, alerting, and incident analysis.
 
+<p>The lab is designed to provide continuous hands-on practice in:</p>
+<ul>
+  <li>SIEM deployment and management</li>
+  <li>Endpoint telemetry collection</li>
+  <li>Detection engineering</li>
+  <li>Alert triage and investigation</li>
+  <li>Attack simulation and validation</li>
+  <li>Automated response scenarios</li>
+</ul>
+<p>This is not a static lab — it is an evolving security environment used for daily blue & red teams practice.</p>
+<br>
 ## Implemented Scenarios
 |  Name                          | Associated Project |
 |  -------------------------------|-------------------------|
