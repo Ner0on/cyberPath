@@ -14,5 +14,11 @@ This repository documents understanding of threat detection, logging, alerting, 
 
 ## Tools
 <ul>
-  <li></li>
+  <li>Wazuh (SIEM)</li>
+  <li>Sysmon</li>
+  <li>Windows</li>
+  <li>MacOs</li>
+  <li>Linux</li>
+  <li>VirusTotal</li>
+  <li>MITRE ATT&CK framework</li>
 </ul>
