@@ -8,3 +8,9 @@
 In this case I want to execute ransamware attack with automated response 
 #### Objective
 For this demo we take all steps from scenario <a href="https://github.com/y0kimatsu/cyberPath/blob/main/Security-LAB/Malware%20Detection%20and%20Automated%20Response%20(SIEM%20Use%20Case)/README.md"> Malware Detection and Automated Response </a>
+
+#### Walkthrough
+
+<hr>
+
+#### Conclusion 
