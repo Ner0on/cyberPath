@@ -20,7 +20,7 @@ This repository documents understanding of threat detection, logging, alerting, 
 |  -------------------------------|-------------------------|
 | 🛡 SIEM implementation (Wazuh + Sysmon)   |<a href="https://github.com/y0kimatsu/cyberPath/blob/main/Security-LAB/SIEM%20implementation/%20README.md"> Full deployment and integration </a>
 | 👾 Malware Detection & Automated Response |<a href="https://github.com/y0kimatsu/cyberPath/tree/main/Security-LAB/Malware%20Detection%20and%20Automated%20Response%20(SIEM%20Use%20Case)"> Detection rules + active response </a>
-| 🦠 Ransomware Detection Scenario | <a href="https://github.com/y0kimatsu/cyberPath/blob/main/Security-LAB/Ransomware%20%20Detection%20%26%20Automated%20Response/README.md"> Ransomware Detection, Execution + active response </a>
+| 🦠 Ransomware Detection Scenario | <a href="https://github.com/y0kimatsu/cyberPath/blob/main/Security-LAB/Ransomware%20%20Detection%20%26%20Automated%20Response/README.md"> Ransomware Execution, Detection, Prevention, active response </a>
 | 🔐 SSH Brute Force Detection | <a href="https://github.com/y0kimatsu/cyberPath/tree/main/Security-LAB/SSH%20BruteForce%20IDS%20%26%20IPS%20Scenario/README.md"> passwordAuthentification in sshd_config case </a>
 
 ## Tools
